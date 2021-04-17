@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/github/issues-pr/ashish2030/Corona-Tracker?style=flat-square" alt="Corona-Tracker"/>
 </a>
   </p>
-<p align="center"><img src="https://github.com/Ashish2030/Corona-Tracker/blob/master/Video/Video.gif"></p>
+<p align="center"><img src="https://github.com/Ashish2030/Corona-Tracker/blob/main/Video/Video.gif"></p>
 <p align="center">
     <a href="https://ashish2030.github.io/Corona-Tracker/" target="blank">View Demo</a>
     ·
