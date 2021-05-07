@@ -17,7 +17,14 @@
 <img src="https://img.shields.io/github/issues-pr/ashish2030/Corona-Tracker?style=flat-square" alt="Corona-Tracker"/>
 </a>
   </p>
-<p align="center"><img src="https://github.com/Ashish2030/Corona-Tracker/blob/main/Video/Video.gif"></p>
+  
+ 
+[![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Corona-Tracker)](https://github.com/ashish2030/Corona-Tracker/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Corona-Tracker)](https://github.com/ashish2030/Corona-Tracker/archive/master.zip)
+ 
+  
+https://user-images.githubusercontent.com/61516051/117405909-fa223d80-af29-11eb-8d34-44c398f77d6d.mp4
+
 <p align="center">
     <a href="https://ashish2030.github.io/Corona-Tracker/" target="blank">View Demo</a>
     ·
